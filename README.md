@@ -309,6 +309,7 @@ Search and research tools are useful when you need current information, broad we
 
 Automation tools are useful when you want to connect LLMs to repeatable workflows: triage, lead routing, research pipelines, support flows, internal notifications, and other glue-code tasks that should not require custom infrastructure first.
 
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 - [n8n](https://n8n.io/)
 - [Zapier](https://zapier.com/)
 - [Make](https://www.make.com/)
