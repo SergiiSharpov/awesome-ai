@@ -273,6 +273,7 @@ In practice, MCP is most useful for giving agents controlled access to repo stat
 - [MCP Market](https://mcpmarket.com/server)
 - [MCP Servers: Development](https://mcpservers.org/category/development)
 - [PulseMCP](https://www.pulsemcp.com/servers)
+- [Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp`
 
 ## PR Review Tools
 
